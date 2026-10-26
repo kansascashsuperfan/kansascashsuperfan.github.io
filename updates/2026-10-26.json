@@ -1,7 +1,23 @@
 {
   "date": "2026-10-26",
-  "intro": "First update EVER, fam! 🎉 The weekend was a quiet one for our hero, so this kickoff edition rewinds to cover Thu Oct 22 through this morning. Grab a chonky cat and settle in.",
+  "intro": "🕛 MIDDAY CHECK-IN! Our hero hit Stocktwits over lunch with fresh wisdom, so the newest gems are up top. Below that, the original kickoff edition rewinding Thu Oct 22 through this morning (the weekend was a quiet one). Grab a chonky cat and settle in.",
   "items": [
+    {
+      "platform": "stocktwits",
+      "caption": "🚨 MIDDAY CHECK-IN 🚨 Our guy just dropped a bold new trading-psychology framework. Results may vary, vibes guaranteed. 🍹",
+      "quote": "$SPY A lot of your trading problems could be solved with day drinking.",
+      "when": "Mon Oct 26, 12:31 PM CT",
+      "likes": 9,
+      "url": "https://stocktwits.com/KansasCash/message/667377501"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Lunchtime space report: $SPY is mooning so hard even the Artemis astronauts are jealous. 🚀🌕",
+      "quote": "$SPY The Artemus crew didn’t see mooning like this",
+      "when": "Mon Oct 26, 12:24 PM CT",
+      "likes": 2,
+      "url": "https://stocktwits.com/KansasCash/message/667376782"
+    },
     {
       "platform": "x",
       "caption": "Monday morning and the man is already in @cosyposter's replies keeping it real. Relatable king.",
