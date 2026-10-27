@@ -1,13 +1,29 @@
 {
   "date": "2026-10-26",
-  "intro": "🕛 MIDDAY CHECK-IN! Our hero hit Stocktwits over lunch with fresh wisdom, so the newest gems are up top. Below that, the original kickoff edition rewinding Thu Oct 22 through this morning (the weekend was a quiet one). Grab a chonky cat and settle in.",
+  "intro": "🌙 EVENING EDITION! Our hero closed out Monday with a victory lap for his Stocktwits post-of-the-week banger and took his day-drinking trading wisdom cross-platform. Fresh gems up top, then the midday check-in and the kickoff rewind (Thu Oct 22 onward), with like counts freshly refreshed. Grab a chonky cat and settle in.",
   "items": [
+    {
+      "platform": "x",
+      "caption": "🏆 VICTORY LAP! Our guy reminds the timeline that his legendary \"It's all gone\" post was crowned Stocktwits post of the week. Certified banger, officially.",
+      "quote": "This banger was post of the week on Stocktwits",
+      "when": "Mon Oct 26, 2:35 PM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2114803147910877428"
+    },
+    {
+      "platform": "x",
+      "caption": "The day-drinking trading framework was too good for one platform, so he brought it to X too. Cross-platform wisdom. 🍹",
+      "quote": "$SPY $TSLA A lot of your trading problems could be solved with day drinking.",
+      "when": "Mon Oct 26, 2:28 PM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2114801446994550842"
+    },
     {
       "platform": "stocktwits",
       "caption": "🚨 MIDDAY CHECK-IN 🚨 Our guy just dropped a bold new trading-psychology framework. Results may vary, vibes guaranteed. 🍹",
       "quote": "$SPY A lot of your trading problems could be solved with day drinking.",
       "when": "Mon Oct 26, 12:31 PM CT",
-      "likes": 9,
+      "likes": 25,
       "url": "https://stocktwits.com/KansasCash/message/667377501"
     },
     {
@@ -23,7 +39,7 @@
       "caption": "Monday morning and the man is already in @cosyposter's replies keeping it real. Relatable king.",
       "quote": "These always get me",
       "when": "Mon Oct 26, 9:43 AM CT",
-      "likes": 1,
+      "likes": 2,
       "url": "https://x.com/Kansas_Cash/status/2114729581890372035"
     },
     {
@@ -46,14 +62,16 @@
       "platform": "x",
       "caption": "GIF WARS! @lordwilmehr tagged in @Kansas_Cash and @WillPrompting, and our guy answered with a GIF. No words needed. 🎞️",
       "when": "Thu Oct 22, 4:41 PM CT",
-      "url": "https://x.com/Kansas_Cash/status/2113385210649755852"
+      "url": "https://x.com/Kansas_Cash/status/2113385210649755852",
+      "likes": 0
     },
     {
       "platform": "x",
       "caption": "Futurist mode: robots are coming, so naturally he asks @grok for the anti-robot game plan. Always prepared, never panicking (much).",
       "quote": "Hey @grok what is the best way for a human to stop an aggressive robot?  What should I get ready and EMP?",
       "when": "Thu Oct 22, 7:26 AM CT",
-      "url": "https://x.com/Kansas_Cash/status/2113245583594971538"
+      "url": "https://x.com/Kansas_Cash/status/2113245583594971538",
+      "likes": 0
     },
     {
       "platform": "stocktwits",
