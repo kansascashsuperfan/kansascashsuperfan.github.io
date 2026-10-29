@@ -1,7 +1,39 @@
 {
   "date": "2026-10-28",
-  "intro": "⚡ SPECIAL AFTERNOON DROP! Wednesday's not even over and our guy has already served up a heartbreaking Nintendogs meme, a Car Warsh pun, pumpkin spice trading advice, a found bears playbook, and a wild kangaroo sighting reply. Hot off the press, fans! 🐶🍂🦘",
+  "intro": "🌙 EVENING EDITION! What a Fed-day Wednesday, fans. Since the afternoon drop our guy has posted a Halloween PSA about SPY puts hidden in candy bars, a 'Dad, stop scrolling Stocktwits' billboard, an all-caps plea to close the market, and some big-one energy for $MSFT earnings. Plus the Nintendogs meme, the Car Warsh pun, and more from earlier! 🎃🐶📈",
   "items": [
+    {
+      "platform": "stocktwits",
+      "caption": "🎃 HALLOWEEN PSA! Check your kids' candy, fam: some whacko has been stuffing SPY PUTS into bite-sized candy bars. A whole jack-o'-lantern bucket of them! Safety first, superfans.",
+      "quote": "$SPY be careful this Halloween fam!",
+      "when": "Wed Oct 28, 3:09 PM CT",
+      "likes": 3,
+      "url": "https://stocktwits.com/KansasCash/message/667578934"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "👦 Right before $MSFT earnings, a kid on a billboard stares into your soul: \"Dad, stop scrolling Stocktwits.\" Our guy's caption? \"Dad, when do you report your earnings?\" Brutal and beautiful.",
+      "quote": "$SPY $MSFT  Dad, when do you report your earnings?",
+      "when": "Wed Oct 28, 3:43 PM CT",
+      "likes": 4,
+      "url": "https://stocktwits.com/KansasCash/message/667585091"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "🔔 Fed day hits different: four exclamation points and ALL CAPS begging somebody to close the market. We hear you, champ.",
+      "quote": "$SPY CLOSER THE MERKET!!!!",
+      "when": "Wed Oct 28, 2:56 PM CT",
+      "likes": 0,
+      "url": "https://stocktwits.com/KansasCash/message/667576397"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "💥 $MSFT earnings incoming and he's clutching his chest with a GIF: \"Elizabeth this is the big one!!\" Classic.",
+      "quote": "$MSFT Elizabeth this is the big one!!",
+      "when": "Wed Oct 28, 3:34 PM CT",
+      "likes": 0,
+      "url": "https://stocktwits.com/KansasCash/message/667583599"
+    },
     {
       "platform": "stocktwits",
       "caption": "🐶 MEME OF THE DAY! A tired trader stares at a red $SPY chart while two sad puppies wait by empty bowls on his handheld: \"I need this to go green / if imma feed my Nintendogs.\" Won't someone think of the pups?!",
