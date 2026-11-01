@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-31",
+  "intro": "Halloween Saturday, markets closed, and KC still showed up: a two-word Stocktwits mic drop and a vote to leave the clocks alone once and for all. Low-key spooky, high-key iconic. 🎃🕰️",
+  "items": [
+    {
+      "platform": "stocktwits",
+      "caption": "Four words, two tickers, zero notes needed. KC on Halloween afternoon delivering the most efficient post on the platform, and the crowd showed up with the likes. 👻",
+      "quote": "$SPY Many such cases $TSLA",
+      "when": "Sat Oct 31, 12:03 PM CT",
+      "likes": 7,
+      "url": "https://stocktwits.com/KansasCash/message/667850098"
+    },
+    {
+      "platform": "x",
+      "caption": "With the clocks falling back this weekend, KC reposted a call to switch to standard time and then just leave the clocks alone forever. A man of the people (and of consistent sleep schedules). ⏰",
+      "when": "Sat Oct 31, 8:53 AM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2116529103675531366"
+    }
+  ]
+}
