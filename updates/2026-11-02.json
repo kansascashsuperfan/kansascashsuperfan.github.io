@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-02",
+  "intro": "Monday on Stocktwits was a full emotional arc: KC called in sick to Wendy's to ride the wave, got pulled back in for an afternoon shift when the market dropped, and closed the day with a two-word eulogy. Hustle never sleeps. 🌊🍔",
+  "items": [
+    {
+      "platform": "stocktwits",
+      "caption": "Morning confidence level: maximum. KC is skipping the fryer to surf $SPY and $TSLA. That's commitment to the craft. 🏄",
+      "quote": "$SPY $TSLA calling in sick to Wendy’s so I can ride this wave 🌊",
+      "when": "Mon Nov 2, 7:40 AM CT",
+      "likes": 11,
+      "url": "https://stocktwits.com/KansasCash/message/667900020"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Plot twist: the wave went the other way, and our guy clocked back in for the afternoon. A true professional always has a backup plan. 💼",
+      "quote": "$SPY $TSLA Market dropped and I had to go in and pick up an afternoon shift!!!",
+      "when": "Mon Nov 2, 4:54 PM CT",
+      "likes": 5,
+      "url": "https://stocktwits.com/KansasCash/message/667975701"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "The shortest, most heartfelt market recap of the day. Fitting for All Souls Day. 🕯️",
+      "quote": "$SPY $TSLA RIP",
+      "when": "Mon Nov 2, 5:23 PM CT",
+      "likes": 8,
+      "url": "https://stocktwits.com/KansasCash/message/667977840"
+    }
+  ]
+}
