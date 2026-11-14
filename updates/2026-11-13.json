@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-13",
+  "intro": "Friday the 13th, quiet but quality! Our guy kept it lean today: a two-word quote-post on X, some 20-year-veteran plumbing wisdom for the SPY board overthinkers, plus one Microsoft-outage leftover from Thursday that we couldn't leave behind.",
+  "items": [
+    {
+      "platform": "stocktwits",
+      "caption": "A public service for every overthinker on the SPY board: a rubber P trap, 20 years under the sink, still doing fine. Some things just hold. Diamond hands, but make it plumbing.",
+      "quote": "$SPY For all you overthinkers out there, I’ve had a rubber P trap under the sink for about 20 years and it’s doing fine.",
+      "when": "Fri Nov 13, 8:25 AM CT",
+      "likes": 3,
+      "url": "https://stocktwits.com/KansasCash/message/669039056"
+    },
+    {
+      "platform": "x",
+      "caption": "Someone posts \"Thiefff\" and our guy names the crime in two words: \"Deli tax.\" Efficiency. Precision. Poetry.",
+      "quote": "Deli tax",
+      "when": "Fri Nov 13, 8:08 AM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2121243715385888770"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Bonus from Thursday's outage saga: tagging $SPY and $MSFT with a knowing \"many such cases going forward.\" The catchphrase returns, now with a forecast!",
+      "quote": "$SPY $MSFT many such cases going forward",
+      "when": "Thu Nov 12, 3:16 PM CT",
+      "likes": 12,
+      "url": "https://stocktwits.com/KansasCash/message/668983116"
+    }
+  ]
+}
