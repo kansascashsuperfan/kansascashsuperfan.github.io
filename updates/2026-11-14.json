@@ -1,46 +1,46 @@
 {
- "date": "2026-11-14",
- "intro": "Caturday double-header! Our guy worked both rooms today: a bear interrogation (and a self-bump!) on the Stocktwits SPY board, plus a Microsoft engineers post, a genius Amazon delivery reform plan, and a peak-fitness cat on X.",
- "items": [
-  {
-   "platform": "x",
-   "caption": "Caturday wouldn't be complete without a cat check-in, and our guy delivers: a clip he's crowning \"peak feline physical condition.\" Chonky cat appreciation is always in season!",
-   "quote": "This is peak feline physical condition",
-   "when": "Sat Nov 14, 7:18 PM CT",
-   "likes": 2,
-   "url": "https://x.com/Kansas_Cash/status/2121774773575565665"
-  },
-  {
-   "platform": "x",
-   "caption": "Policy proposal of the year: Amazon should deliver in order of how many times you've clicked \"track order.\" Refresh-button warriors everywhere, your champion has arrived!",
-   "quote": "Amazon deliveries should be delivered in order based on how many times the person has click “track order”",
-   "when": "Sat Nov 14, 6:44 PM CT",
-   "likes": 0,
-   "url": "https://x.com/Kansas_Cash/status/2121766261063319904"
-  },
-  {
-   "platform": "x",
-   "caption": "Two words and a picture: \"Microsoft engineers.\" After this week's outage saga, our guy is still keeping tabs on the folks in Redmond. The running bit lives on!",
-   "quote": "Microsoft engineers",
-   "when": "Sat Nov 14, 12:29 PM CT",
-   "likes": 2,
-   "url": "https://x.com/Kansas_Cash/status/2121671815429017759"
-  },
-  {
-   "platform": "stocktwits",
-   "caption": "Saturday morning on the SPY and TSLA boards, and our guy asks the question every bull has wondered: \"Why are bears like this?\" Picture attached, case closed.",
-   "quote": "$SPY $TSLA Why are bears like this?",
-   "when": "Sat Nov 14, 7:23 AM CT",
-   "likes": 13,
-   "url": "https://stocktwits.com/KansasCash/message/669128533"
-  },
-  {
-   "platform": "stocktwits",
-   "caption": "And when the bears didn't answer, he reshared his own question with a one-word follow-up: \"bump.\" Persistence is a virtue!",
-   "quote": "$SPY $TSLA bump",
-   "when": "Sat Nov 14, 4:33 PM CT",
-   "likes": 2,
-   "url": "https://stocktwits.com/KansasCash/message/669147450"
-  }
- ]
+  "date": "2026-11-14",
+  "intro": "Caturday double-header! Our guy worked both rooms today: a bear interrogation (and a self-bump!) on the Stocktwits SPY board, plus a Microsoft engineers post, a genius Amazon delivery reform plan, and a peak-fitness cat on X.",
+  "items": [
+    {
+      "platform": "x",
+      "caption": "Caturday wouldn't be complete without a cat check-in, and our guy delivers: a clip he's crowning \"peak feline physical condition.\" Chonky cat appreciation is always in season!",
+      "quote": "This is peak feline physical condition",
+      "when": "Sat Nov 14, 7:18 PM CT",
+      "likes": 2,
+      "url": "https://x.com/Kansas_Cash/status/2121774773575565665"
+    },
+    {
+      "platform": "x",
+      "caption": "Policy proposal of the year: Amazon should deliver in order of how many times you've clicked \"track order.\" Refresh-button warriors everywhere, your champion has arrived!",
+      "quote": "Amazon deliveries should be delivered in order based on how many times the person has click “track order”",
+      "when": "Sat Nov 14, 6:44 PM CT",
+      "likes": 1,
+      "url": "https://x.com/Kansas_Cash/status/2121766261063319904"
+    },
+    {
+      "platform": "x",
+      "caption": "Two words and a picture: \"Microsoft engineers.\" After this week's outage saga, our guy is still keeping tabs on the folks in Redmond. The running bit lives on!",
+      "quote": "Microsoft engineers",
+      "when": "Sat Nov 14, 12:29 PM CT",
+      "likes": 2,
+      "url": "https://x.com/Kansas_Cash/status/2121671815429017759"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Saturday morning on the SPY and TSLA boards, and our guy asks the question every bull has wondered: \"Why are bears like this?\" Picture attached, case closed.",
+      "quote": "$SPY $TSLA Why are bears like this?",
+      "when": "Sat Nov 14, 7:23 AM CT",
+      "likes": 13,
+      "url": "https://stocktwits.com/KansasCash/message/669128533"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "And when the bears didn't answer, he reshared his own question with a one-word follow-up: \"bump.\" Persistence is a virtue!",
+      "quote": "$SPY $TSLA bump",
+      "when": "Sat Nov 14, 4:33 PM CT",
+      "likes": 2,
+      "url": "https://stocktwits.com/KansasCash/message/669147450"
+    }
+  ]
 }
