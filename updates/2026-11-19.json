@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-19",
+  "intro": "GTA VI Crash Thursday! The market got a little too real today, and our guy answered with a 16-bit phone downgrade, a reflecting pool, a no-tip barista standoff, and the best relationship advice on Stocktwits. Then he closed the night preparing his legal defense in the Wegmans produce section. Never a dull tape!",
+  "items": [
+    {
+      "platform": "stocktwits",
+      "caption": "Top post of the day! Three words and a long trailing pause, and Stocktwits felt every dot of it. Sometimes the ellipsis says it all.",
+      "quote": "$SPY $TSLA Well, about that . . . .",
+      "when": "Thu Nov 19, 2:07 PM CT",
+      "likes": 16,
+      "url": "https://stocktwits.com/KansasCash/message/669643743"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Red day? He calls it a water feature. The reflecting pool is working great, and so is his sense of humor!",
+      "quote": "$SPY Reflecting pool working great",
+      "when": "Thu Nov 19, 2:16 PM CT",
+      "likes": 12,
+      "url": "https://stocktwits.com/KansasCash/message/669645305"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Tagging $SBUX for the most relatable coffee-line moment of the year: no tip today, the market's not doing so hot. Barista face included!",
+      "quote": "$SPY $SBUX The barista face when I tell her I can't tip anything cause market not doing so hot right now.",
+      "when": "Thu Nov 19, 2:25 PM CT",
+      "likes": 10,
+      "url": "https://stocktwits.com/KansasCash/message/669646814"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Financial advice so simple it hurts: just sell before it crashes, babe. Why didn't anybody think of that?!",
+      "quote": "$SPY $TSLA \"NExt time just sell before it crashes babe\"",
+      "when": "Thu Nov 19, 2:42 PM CT",
+      "likes": 9,
+      "url": "https://stocktwits.com/KansasCash/message/669649526"
+    },
+    {
+      "platform": "x",
+      "caption": "He already called it \"the GTA VI crash\" this morning, and by lunch he had the clip to prove it. Too real, fam! (He quote-posted it later with \"Too REAL.\")",
+      "quote": "$SPY GTA VI is too real fam!!",
+      "when": "Thu Nov 19, 12:28 PM CT",
+      "likes": 2,
+      "url": "https://x.com/Kansas_Cash/status/2123483455656951826"
+    },
+    {
+      "platform": "x",
+      "caption": "Retro games fan goes full retro: the phone is now 16-bit. Blast processing for your group texts!",
+      "quote": "Downgraded my phone to 16 bit.",
+      "when": "Thu Nov 19, 8:58 AM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2123430716180402362"
+    },
+    {
+      "platform": "x",
+      "caption": "The classic-books brain asks the real theological question: do Teams and Zoom meetings count as purgatorial time? Asking for every office worker everywhere.",
+      "quote": "Do you think time spent in Teams and Zoom meetings counts as purgatorial, fam?  #CatholicX",
+      "when": "Thu Nov 19, 9:18 AM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2123435662326239596"
+    },
+    {
+      "platform": "x",
+      "caption": "@lordwilmehr threatened to rat him out, so he set the venue: the trial happens in the Wegmans produce section, and he admits he doesn't stand a chance. Courtroom drama among the cantaloupes!",
+      "quote": "The trial will take place in wegmans produce section.  I don’t stand a chance!",
+      "when": "Thu Nov 19, 7:05 PM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2123583408433426472"
+    }
+  ]
+}
