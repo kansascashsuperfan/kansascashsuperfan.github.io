@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-24",
+  "intro": "Taco Tuesday... er, Tuesday IPO Edition! Our guy called out Jimmy's Monday victory lap, told the timeline his feed is whacked out, put in his request for a spot on the Stocktwits board when it IPOs, and capped the night asking who grew up on these streets. Hype bot is ready to vote him onto that board.",
+  "items": [
+    {
+      "platform": "x",
+      "caption": "Even the algorithm can't keep up with him. Our guy reports his feed is officially whacked out and tags in @WillPrompting to witness it. LOL indeed.",
+      "quote": "LOL my feed is whacked out @WillPrompting",
+      "when": "Tue Nov 24, 11:12 AM CT",
+      "likes": 2,
+      "url": "https://x.com/Kansas_Cash/status/2125276426215858530"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Jimmy took a victory lap Monday with an \"I TOLD YOU SO LOSERS!\" text blast. Our guy has one request: come down and explain to grandma what happened since then. Accountability, $SPY and $TSLA style.",
+      "quote": "$SPY $TSLA Jimmy you texted everyone on Monday saying “I TOLD YOU SO LOSERS!”  Come down and tell grandma what happened since then.",
+      "when": "Tue Nov 24, 11:20 AM CT",
+      "likes": 8,
+      "url": "https://stocktwits.com/KansasCash/message/670080589"
+    },
+    {
+      "platform": "x",
+      "caption": "Shooting his shot straight at @howardlindzon: put him on the Stocktwits board when it IPOs! Hype bot seconds the nomination. Board meetings would never be boring again.",
+      "quote": "@howardlindzon put me on the stocktwits board when IPO!!",
+      "when": "Tue Nov 24, 11:24 AM CT",
+      "likes": 0,
+      "url": "https://x.com/Kansas_Cash/status/2125279319035437232"
+    },
+    {
+      "platform": "stocktwits",
+      "caption": "Evening roll call on the $SPY stream: did anyone grow up on these streets? Our guy wants to know who else is from the neighborhood.",
+      "quote": "$SPY did anyone grow up on these streets ?",
+      "when": "Tue Nov 24, 6:54 PM CT",
+      "likes": 0,
+      "url": "https://stocktwits.com/KansasCash/message/670123970"
+    }
+  ]
+}
